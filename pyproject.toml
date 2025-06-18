@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "slack-ai-bot"
+name = "slack-server"
 version = "0.1.0"
 description = ""
 authors = ["Xian Wu <xianwuusa@gmail.com>"]
